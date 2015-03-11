@@ -1,11 +1,10 @@
-all: clean getpdf
-
+all: clean getpdf view
 
 clean:
-	rm -rf *.pdf *.log
+	rm -rf Modules.pdf *.log
 
 getpdf:
-	pdflatex modules.tex
+	pdflatex Modules.tex
 
 view:
-	evince modules.pdf &
+	evince Modules.pdf &
