@@ -1,0 +1,350 @@
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2014.7.2)  2 JUL 2014 01:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**assignment_2.tex
+(./assignment_2.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+) (./lastpage.sty
+Package: lastpage 1994/06/25 v0.1b LaTeX2e package for refs to last page number
+ (JPG)
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/extramarks.sty
+\@temptokenb=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks16
+\lst@length=\count89
+\lst@currlwidth=\dimen105
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen108
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
+))
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+) (./lipsum.sty
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count96
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count97
+\float@exts=\toks17
+\float@box=\box28
+\@float@everytoks=\toks18
+\@floatcapt=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2013/08/26 1.5b listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2013/08/26 1.5b listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+)
+\c@homeworkProblemCounter=\count98
+
+(./assignment_2.aux)
+\openout1 = `assignment_2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count99
+\scratchdimen=\dimen109
+\scratchbox=\box30
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen110
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count105
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 176.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 176.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 176.
+
+[1
+
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+(./assignment_2.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `assignment_2.toc'.
+
+ [2] <memcpy.png, id=13, 281.05pt x 423.5825pt>
+File: memcpy.png Graphic file (type png)
+
+<use memcpy.png>
+Package pdftex.def Info: memcpy.png used on input line 201.
+(pdftex.def)             Requested size: 281.0493pt x 423.58147pt.
+ <memSet.png, id=14, 282.05376pt x 423.5825pt>
+File: memSet.png Graphic file (type png)
+
+<use memSet.png>
+Package pdftex.def Info: memSet.png used on input line 224.
+(pdftex.def)             Requested size: 282.05305pt x 423.58147pt.
+ [3 <./memcpy.png (PNG copy)>]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no º in font cmr10!
+
+<FindMax.png, id=18, 327.2225pt x 516.93124pt>
+File: FindMax.png Graphic file (type png)
+ <use FindMax.png>
+Package pdftex.def Info: FindMax.png used on input line 249.
+(pdftex.def)             Requested size: 327.2217pt x 516.92998pt.
+ [4 <./memSet.png (PNG copy)>]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no º in font cmr10!
+ <FindMin.png, id=22, 327.2225pt x 516.93124pt>
+File: FindMin.png Graphic file (type png)
+
+<use FindMin.png>
+Package pdftex.def Info: FindMin.png used on input line 273.
+(pdftex.def)             Requested size: 327.2217pt x 516.92998pt.
+ [5 <./FindMax.png (PNG copy)>]
+<bfnStrCmp.png, id=26, 382.42876pt x 351.3125pt>
+File: bfnStrCmp.png Graphic file (type png)
+ <use bfnStrCmp.png>
+Package pdftex.def Info: bfnStrCmp.png used on input line 297.
+(pdftex.def)             Requested size: 382.42781pt x 351.31163pt.
+ [6 <./FindMin.png (PNG copy)>]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ³ in font cmr10!
+ <bpfnByteAddress.png, id=30, 382.42876pt x 351.3125pt>
+File: bpfnByteAddress.png Graphic file (type png)
+
+<use bpfnByteAddress.png>
+Package pdftex.def Info: bpfnByteAddress.png used on input line 322.
+(pdftex.def)             Requested size: 382.42781pt x 351.31163pt.
+ [7 <./bfnStrCmp.png (PNG copy)>]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ± in font cmr10!
+
+<wfnStrLen.png, id=35, 432.61626pt x 283.0575pt>
+File: wfnStrLen.png Graphic file (type png)
+ <use wfnStrLen.png>
+Package pdftex.def Info: wfnStrLen.png used on input line 347.
+(pdftex.def)             Requested size: 432.6152pt x 283.0568pt.
+ [8 <./bpfnByteAddress.png (PNG copy)>]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no º in font cmr10!
+ <Rand.png, id=39, 305.14pt x 413.545pt>
+File: Rand.png Graphic file (type png)
+
+<use Rand.png>
+Package pdftex.def Info: Rand.png used on input line 373.
+(pdftex.def)             Requested size: 305.13924pt x 413.54398pt.
+ [9 <./wfnStrLen.png (PNG copy)>]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ± in font cmr10!
+
+<LRC.png, id=43, 301.125pt x 354.32375pt>
+File: LRC.png Graphic file (type png)
+ <use LRC.png>
+Package pdftex.def Info: LRC.png used on input line 396.
+(pdftex.def)             Requested size: 301.12425pt x 354.32288pt.
+ [10 <./Rand.png (PNG copy)>]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ± in font cmr10!
+ <ocurrences.png, id=47, 441.65pt x 521.95pt>
+File: ocurrences.png Graphic file (type png)
+ <use ocurrences.png>
+Package pdftex.def Info: ocurrences.png used on input line 421.
+(pdftex.def)             Requested size: 441.64891pt x 521.94872pt.
+
+[11 <./LRC.png (PNG copy)>] <vfnSort.png, id=51, 451.6875pt x 901.3675pt>
+File: vfnSort.png Graphic file (type png)
+
+<use vfnSort.png>
+Package pdftex.def Info: vfnSort.png used on input line 445.
+(pdftex.def)             Requested size: 305.33788pt x 609.34581pt.
+ [12 <./ocurrences.png (PNG copy)>]
+<pritnF.png, id=55, 873.2625pt x 925.4575pt>
+File: pritnF.png Graphic file (type png)
+ <use pritnF.png>
+Package pdftex.def Info: pritnF.png used on input line 467.
+(pdftex.def)             Requested size: 399.2946pt x 423.15965pt.
+ [13 <./vfnSort.png (PNG copy)>] AED: lastpage setting LastPage [14 <./pritnF.p
+ng (PNG copy)>]
+(./assignment_2.aux) ) 
+Here is how much of TeX's memory you used:
+ 3515 strings out of 495034
+ 50688 string characters out of 6181678
+ 218905 words of memory out of 5000000
+ 6669 multiletter control sequences out of 15000+600000
+ 8848 words of font info for 31 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 38i,11n,49p,295b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on assignment_2.pdf (14 pages, 342505 bytes).
+PDF statistics:
+ 78 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

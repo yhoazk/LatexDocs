@@ -1,0 +1,25 @@
+\contentsline {section}{Problem 1}{3}
+\contentsline {subsection}{vfnMemCpy}{3}
+\contentsline {section}{Problem 2}{3}
+\contentsline {subsection}{ vfnMemSet }{3}
+\contentsline {section}{Problem 3}{4}
+\contentsline {subsection}{bfnFindMax}{4}
+\contentsline {section}{Problem 4}{5}
+\contentsline {subsection}{bfnFindMin}{5}
+\contentsline {section}{Problem 5}{6}
+\contentsline {subsection}{bfnStrCmp}{6}
+\contentsline {section}{Problem 6}{7}
+\contentsline {subsection}{bpfnByteAddress}{7}
+\contentsline {section}{Problem 7}{8}
+\contentsline {subsection}{wfnStrLen}{8}
+\contentsline {section}{Problem 8}{9}
+\contentsline {subsection}{wfnRand}{9}
+\contentsline {section}{Problem 9}{10}
+\contentsline {subsection}{bfnLRC}{10}
+\contentsline {section}{Problem 10}{11}
+\contentsline {subsection}{wfnOcurrence}{11}
+\contentsline {section}{Problem 11}{12}
+\contentsline {subsection}{vfnSort}{12}
+\contentsline {section}{Problem 12}{14}
+\contentsline {subsection}{vfnSprintf}{14}
+\contentsline {section}{Conclusiones}{14}
